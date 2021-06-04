@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johanhar88
-- 👀 I’m interested in Front-End Dev & UI/UX
+- 👀 I’m interested in UI, FrontEnd Dev & IT Support!
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
