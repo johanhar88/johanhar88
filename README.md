@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johanhar88
-- 👀 I’m interested in UI, FrontEnd Dev & IT Support!
-- 🌱 I’m currently learning Javascript - FrontEnd things
+- 👀 I’m interested in Frontend Devs and IT Support!
+- 🌱 I’m currently learning Javascript, React
 - 📫 How to reach me @gmail : johanhar88@gmail.com
 
 <!---
