@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Johan, currently studying at Tarumanagara University
-- 👀 I’m interested in Frontend Devs
+- 👋 Hi, I’m Johan. Fresh Graduate from Universitas Tarumanagara
+- 👀 I’m interested in Frontend Dev
 - 🌱 I’m currently deepen learning Javascript language
 - 📫 How to reach me @gmail : johanhar88@gmail.com
 - 🌏 Check this out : https://johanhar.vercel.app/
